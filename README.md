@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @websterpratik
-- 👀 I’m interested in application development and its intergration with AI based dashboards and widgets. I am backend developer for life!
-- 🌱 I’m currently learning Android development using Kotlin along with ML kits.
-- 💞️ I’m looking to collaborate on interesting android projects related to AI domain.
+- 👋 Hi, I’m @websterpratik, technical architect and web appilication solution developer based in Pune, India. 
+- 👀 I am highly interested in developing a clean (bug free), secure and modular web applications and APIs.
+- 🌱 Currently working on AI based web applications and AI enabled plugable widgets.
 - 📫 Reach me at pratisknaik5@gmail.com
 
 <!---
